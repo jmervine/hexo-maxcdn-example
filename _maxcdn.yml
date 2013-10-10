@@ -1,0 +1,4 @@
+domain: blogcdn.example.com
+enabled:
+- test
+- production

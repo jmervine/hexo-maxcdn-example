@@ -1,0 +1,8 @@
+{
+  "name": "hexo",
+  "version": "2.2.0",
+  "private": true,
+  "dependencies": {
+    "hexo-maxcdn-plugin": "0.0.1"
+  }
+}
